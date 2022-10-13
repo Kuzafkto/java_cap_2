@@ -9,12 +9,10 @@ ejercicio 1 del capítulo 1.
 public class Ej2{
     public static void main(String[] args) {
 
-        try {
+       
             String name = "Marco";
             System.out.println(name);
-        } catch (Exception e) {
-            System.out.println("Error! ");
-            System.out.println("Por favor, ejecute el código de nuevo");        }
+       
        
     }
 }

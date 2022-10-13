@@ -7,7 +7,7 @@
 */ 
 public class Ej1 {
     public static void main(String[] args) {
-        try {
+        
             int x;
         int y;
 
@@ -20,10 +20,7 @@ public class Ej1 {
         System.out.println("x - y = " + (x - y));
         System.out.println("x * y = " + (x * y));
         System.out.println("x / y = " + (x / y));
-        } catch (Exception e) {
-            System.out.println("Error! ");
-            System.out.println("Por favor, ejecute el código de nuevo");
-        }
+        
         
     }
 }

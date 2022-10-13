@@ -7,7 +7,7 @@ por pantalla ¿Qué problemas te encuentras? ¿cómo lo has solucionado?
  */
 public class Ej8{
     public static void main(String[] args) {
-        try {
+        
             char l= 'l';
             char e='e';
             char t='t';
@@ -21,9 +21,7 @@ public class Ej8{
             word+=r;
             word+=a;
         System.out.println(word);
-        } catch (Exception e) {
-            System.out.println("Error! ");
-            System.out.println("Por favor, ejecute el código de nuevo");          }
+       
        
     }
 }
