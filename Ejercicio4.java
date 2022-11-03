@@ -8,7 +8,7 @@ convertir deberá estar almacenada en una variable.
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Ej4{
+public class Ejercicio4{
     public static void main(String[] args) {
 
    

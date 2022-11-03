@@ -5,7 +5,7 @@ por pantalla ¿Qué problemas te encuentras? ¿cómo lo has solucionado?
 
 @author KuzaFkto
  */
-public class Ej8{
+public class Ejercicio8{
     public static void main(String[] args) {
         
             char l= 'l';

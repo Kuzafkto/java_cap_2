@@ -6,7 +6,7 @@ ejercicio 1 del capítulo 1.
  * @author KuzaFkto
  */
 
-public class Ej2{
+public class Ejercicio2{
     public static void main(String[] args) {
 
        

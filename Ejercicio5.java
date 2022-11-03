@@ -9,7 +9,7 @@ convertir deberá estar almacenada en una variable.
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Ej5{
+public class Ejercicio5{
     public static void main(String[] args) {
 
       

@@ -5,7 +5,7 @@ resultado del programa sea el mismo que en el ejercicio 2.
  * @author KuzaFkto
  */
 
-public class Ej3{
+public class Ejercicio3{
     public static void main(String[] args) {
      
             String name = "Marco";
